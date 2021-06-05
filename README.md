@@ -1,5 +1,5 @@
 # SimpleProjectsIdeas
-A Collection of simple Java programs with a goal
+A Collection of simple Java programs
 
 1)Zodiac
 
