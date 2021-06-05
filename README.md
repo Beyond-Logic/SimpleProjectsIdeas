@@ -1,2 +1,2 @@
 # SimpleProjectsIdeas
-A Collection of simple Java programs with a goal
+A Collection of simple Java programs you can use in your everyday life
